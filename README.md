@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Himavarshini</h1>
+<h3 align="center">CSE Core Student | Tech Enthusiast | Programmer</h3>
 
-<!--
-**kanalahimavarshini/kanalahimavarshini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 CSE Core Student
+- 🌱 Currently learning Java, DSA & Web Development
+- 💻 Interested in Programming and Problem Solving
+- 🚀 Exploring Open Source & Technology
+- 📚 Passionate about coding and learning new skills
+
+---
+
+## 🛠 Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+
+
+## 📫 Connect With Me
+
+- Email: kanalahimavarshini@gmail.com
+- LinkedIn: https://www.linkedin.com/in/k-himavarshini
