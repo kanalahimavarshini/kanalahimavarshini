@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 CSE Core Student
+- 🎓1st Year CSE Core Student
 - 🌱 Currently learning Java, DSA & Web Development
 - 💻 Interested in Programming and Problem Solving
 - 🚀 Exploring Open Source & Technology
